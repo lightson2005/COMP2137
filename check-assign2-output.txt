@@ -1,0 +1,33 @@
+---Host/Student info----
+
+Running on Thu Jul 17 05:35:18 PM EDT 2025
+Run by lightson - () on host
+ Static hostname: generic-vm
+      Machine ID: e52b723a63b54948992b901aebfd803e
+Operating System: Ubuntu 24.04.2 LTS
+a98742121b14ebe6350c4bf8245d0062  ./check-assign2-script.sh - a98742121b14ebe6350c4bf8245d0062  -
+------------------------
+
+---Start of Assignment2.sh Check------
+Retrieved makecontainers.sh script
+---Running makecontainers.sh----------
+Retrieving script library file
+This script performs many tasks. Please be patient
+To see more about what it is doing as it does it, use the --verbose option
+You may ignore any messages about Open vSwitch or dpkg-preconfigure being unable to re-open stdin
+DO NOT use control-Z when this script is running.
+Network lan deleted
+Network mgmt deleted
+Network lan created
+Network mgmt created
+Launching openwrt
+Retrieving image: Unpack: 100% (1.64GB/s)                                          Retrieving image: Unpack: 100% (1.64GB/s)                                          Launching server1
+Retrieving image: Unpack: 100% (2.09GB/s)                                          Retrieving image: Unpack: 100% (2.09GB/s)                                          active
+Pushing /home/lightson/.ssh/id_ed25519.pub to /home/remoteadmin/.ssh/id_ed25519.pub: 100% (251.24MB/s)                                                                                                       Waiting for server1 restart
+# Host server1-mgmt found: line 4
+# Host server1-mgmt found: line 5
+# Host server1-mgmt found: line 6
+/home/lightson/.ssh/known_hosts updated.
+Original contents retained as /home/lightson/.ssh/known_hosts.old
+---Retrieving assignment2.sh script---
+Failed to retrieve assignment2.sh script using URL 'https://github.com/lightson2005/COMP2137/raw/main/assignment2.sh'
